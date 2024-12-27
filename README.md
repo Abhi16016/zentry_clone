@@ -8,7 +8,7 @@
 4.  [Quick Start](#quick-start)
 
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">💻 Introduction</a>
 
 Build a visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
 
@@ -19,7 +19,7 @@ Build a visually captivating website inspired by **[Zentry](https://zentry.com/)
 - React.js
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features">😎 Features</a>
 
 👉 **Scroll-Based Animations**: Dynamic animations triggered by scrolling for a more engaging user experience.
 
@@ -34,7 +34,7 @@ Build a visually captivating website inspired by **[Zentry](https://zentry.com/)
 👉 **Completely Responsive**: Flawless adaptation across all devices, ensuring a consistent experience.
 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">✅ Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
